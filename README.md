@@ -1,34 +1,30 @@
-# 👋 Hi there, I'm Sacheth Sivaprasad!
+# Sacheth Sivaprasad
 
-🎓 **Student** | 🛠️ **Engineer** | 💻 **Technologist**
-
----
-
-### 💡 About Me
-
-- 🎓 I’m currently studying **B-Tech in Electronics and Computer Engineering** at **Marian Engineering College**
-- 🧠 I’m exploring areas like **AI, Web Development and Robotics**
-- 🌱 Currently learning: **Python, React, TensorFlow**
-- 💼 Open to collaboration on **projects**, **internships**, and **open-source contributions**
+**Student | Engineer | Technologist**
 
 ---
 
-### 🛠️ Skills & Tools
+## About Me
 
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=c%2B%2B)
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code)
+- Currently pursuing a B.Tech in Electronics and Computer Engineering at Marian Engineering College.
+- Exploring areas like AI, Web Development, and Robotics.
+- Learning Python, React, and TensorFlow.
+- Open to collaborating on projects, internships, and open-source work.
 
 ---
 
-### ✨ Fun Fact
+## Skills & Tools
 
-> *“The best way to predict the future is to invent it.” – Alan Kay*
+![Python](https://img.shields.io/badge/Python-000000?style=flat&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-000000?style=flat&logo=c%2B%2B&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-000000?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-000000?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat&logo=javascript&logoColor=white)
+![Git](https://img.shields.io/badge/Git-000000?style=flat&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-000000?style=flat&logo=visual-studio-code&logoColor=white)
 
 ---
 
+## Quote
 
+> “The best way to predict the future is to invent it.” – Alan Kay
