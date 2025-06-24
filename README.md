@@ -7,7 +7,7 @@
 ## About Me
 
 - Currently pursuing a B.Tech in Electronics and Computer Engineering at Marian Engineering College.
-- Exploring areas like AI, Web Development, and Robotics.
+- Exploring areas like AI, Web Development, and Data Science.
 - Learning Python, React, and TensorFlow.
 - Open to collaborating on projects and internships.
 
